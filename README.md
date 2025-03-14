@@ -1,2 +1,2 @@
-# Genet1c-Code
+# Genetic-Code
 Jordan Latta's Genetic Based Code 
